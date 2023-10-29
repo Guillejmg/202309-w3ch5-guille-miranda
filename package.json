@@ -45,5 +45,14 @@
   },
   "dependencies": {
       "jason-server": "^3.0.0"
+  },
+  "babel": {
+    "env": {
+      "test": {
+        "plugins": [
+          "@babel/plugin-transform-modules-commonjs"
+        ]
+      }
+    }
   }
 }
