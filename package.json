@@ -44,7 +44,8 @@
     "vite": "^4.4.5"
   },
   "dependencies": {
-    "jason-server": "^3.0.0"
+    "jason-server": "^3.0.0",
+    "json-server": "^0.17.4"
   },
   "babel": {
     "env": {
